@@ -1,0 +1,23 @@
+{
+  "name": "sycle-express-veriuser",
+  "version": "0.0.2",
+  "description": "Sycle express verify user middleware based on veritoken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sycle/sycle-express-veriuser.git"
+  },
+  "author": "Tao Yuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sycle/sycle-express-veriuser/issues"
+  },
+  "homepage": "https://github.com/sycle/sycle-express-veriuser",
+  "dependencies": {
+    "lodash.defaults": "^3.1.1",
+    "veritoken": "0.0.2"
+  }
+}
