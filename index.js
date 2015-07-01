@@ -26,9 +26,9 @@ module.exports = function (sappOrModel, options) {
     options = options || {};
     _defaults(options, DEFAULTS);
 
-    return veritoken(options, function (tokenId, cb) {
-        Model.findForId(tokenId, function (err, token) {
-            cb(err, token);
+    return veritoken(options, function (token, cb) {
+        Model.findByToken(token, function (err, accessToken) {
+            cb(err, accessToken);
         });
     });
 
