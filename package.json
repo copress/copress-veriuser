@@ -1,6 +1,6 @@
 {
   "name": "sycle-express-veriuser",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Sycle express verify user middleware based on veritoken",
   "main": "index.js",
   "scripts": {
