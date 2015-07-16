@@ -1,4 +1,4 @@
-sycle-express-veriuser
+copress-veriuser
 =====================
 
-Sycle express verify user middleware based on veritoken
+Copress verify user middleware based on veritoken

@@ -1,5 +1,5 @@
 {
-  "name": "sycle-express-veriuser",
+  "name": "copress-veriuser",
   "version": "0.1.1",
   "description": "Sycle express verify user middleware based on veritoken",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sycle/sycle-express-veriuser.git"
+    "url": "https://github.com/copress/copress-veriuser.git"
   },
   "author": "Tao Yuan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sycle/sycle-express-veriuser/issues"
+    "url": "https://github.com/copress/copress-veriuser/issues"
   },
-  "homepage": "https://github.com/sycle/sycle-express-veriuser",
+  "homepage": "https://github.com/copress/copress-veriuser",
   "dependencies": {
     "lodash.defaults": "^3.1.1",
     "veritoken": "latest"
